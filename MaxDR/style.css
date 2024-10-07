@@ -1,0 +1,17 @@
+body {
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(63,126,14,1) 0%, rgba(0,255,214,1) 100%);
+}
+h1 {
+	text-align:center;
+	color: #0717a8;
+  font-family: Lobster, cursive;
+}
+.images{
+	text-align: center;
+	
+}
+img {
+	width: 300px;
+	height: 240px;
+}
